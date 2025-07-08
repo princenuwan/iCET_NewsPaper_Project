@@ -2,4 +2,53 @@
 
 .mainTitle {
     font-family: "Manufacturing Consent", system-ui;
+    font-size: 100px;
+    text-align: center;
+}
+
+.subT {
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mainTittlRow {
+    padding-top: 50px;
+}
+
+.subTt {
+    text-align: center;
+}
+
+.topic-box {
+    border-bottom: 2px solid black;
+    /* Add a border */
+    border-top: 2px solid black;
+    padding-top: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.line {
+    border-top: 2px solid black;
+    padding-bottom: 2px;
+}
+
+.line1 {
+    border-top: 2px solid black;
+}
+
+.col {
+    width: 30%;
+    padding-top: 20px;
+}
+
+.topic-box-2col-top {
+    border: 1px blue;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    background-color: beige;
+    text-align: center;
 }
